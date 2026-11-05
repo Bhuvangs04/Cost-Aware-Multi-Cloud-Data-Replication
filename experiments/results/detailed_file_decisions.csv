@@ -1,0 +1,301 @@
+strategy,file_id,filename,size_bytes,priority,access_frequency,action,score,replicated,reason
+Full Replication (Baseline),bench-obj-000,audit_log_000.json.gz,12322289,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-001,audit_log_001.json.gz,24274284,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-002,crash_dump_002.bin,63206870,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-003,db_journal_003.parquet,5664433,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-004,metric_report_004.bin,43988602,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-005,metric_report_005.bin,37036167,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-006,db_journal_006.parquet,12882416,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-007,metric_report_007.bin,41278786,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-008,db_journal_008.parquet,4494139,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-009,metric_report_009.bin,28261567,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-010,metric_report_010.bin,19856192,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-011,db_journal_011.parquet,6234874,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-012,metric_report_012.bin,48158537,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-013,metric_report_013.bin,46655913,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-014,metric_report_014.bin,28118050,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-015,audit_log_015.json.gz,24858330,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-016,audit_log_016.json.gz,19618733,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-017,crash_dump_017.bin,99291983,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-018,metric_report_018.bin,37289074,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-019,audit_log_019.json.gz,17389465,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-020,audit_log_020.json.gz,12602063,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-021,audit_log_021.json.gz,9884523,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-022,audit_log_022.json.gz,22339745,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-023,crash_dump_023.bin,87210094,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-024,crash_dump_024.bin,33173174,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-025,audit_log_025.json.gz,6823843,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-026,crash_dump_026.bin,35688377,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-027,audit_log_027.json.gz,10371383,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-028,crash_dump_028.bin,42443940,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-029,audit_log_029.json.gz,19408217,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-030,db_journal_030.parquet,12103235,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-031,audit_log_031.json.gz,7374516,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-032,metric_report_032.bin,36307057,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-033,metric_report_033.bin,36095796,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-034,metric_report_034.bin,50475155,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-035,audit_log_035.json.gz,20948028,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-036,crash_dump_036.bin,91988045,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-037,metric_report_037.bin,27357875,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-038,crash_dump_038.bin,95224242,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-039,db_journal_039.parquet,2289771,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-040,audit_log_040.json.gz,9086598,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-041,audit_log_041.json.gz,23260614,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-042,audit_log_042.json.gz,14196047,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-043,audit_log_043.json.gz,16657274,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-044,db_journal_044.parquet,3968686,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-045,metric_report_045.bin,30182220,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-046,metric_report_046.bin,39662362,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-047,metric_report_047.bin,21099547,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-048,db_journal_048.parquet,9709372,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-049,audit_log_049.json.gz,5351774,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-050,crash_dump_050.bin,56322999,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-051,audit_log_051.json.gz,22039762,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-052,db_journal_052.parquet,14880756,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-053,metric_report_053.bin,22474884,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-054,db_journal_054.parquet,10614637,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-055,audit_log_055.json.gz,8813434,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-056,metric_report_056.bin,30514050,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-057,metric_report_057.bin,44554439,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-058,audit_log_058.json.gz,25676529,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-059,metric_report_059.bin,23834458,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-060,audit_log_060.json.gz,10371314,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-061,db_journal_061.parquet,8370385,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-062,db_journal_062.parquet,14889960,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-063,metric_report_063.bin,21327132,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-064,crash_dump_064.bin,93365747,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-065,db_journal_065.parquet,15160336,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-066,metric_report_066.bin,46077192,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-067,audit_log_067.json.gz,5262069,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-068,crash_dump_068.bin,101360501,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-069,audit_log_069.json.gz,16119752,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-070,db_journal_070.parquet,10294595,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-071,crash_dump_071.bin,23585644,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-072,metric_report_072.bin,17993075,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-073,crash_dump_073.bin,69689973,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-074,metric_report_074.bin,31122683,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-075,crash_dump_075.bin,53110265,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-076,audit_log_076.json.gz,7186526,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-077,metric_report_077.bin,26650378,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-078,crash_dump_078.bin,97120879,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-079,metric_report_079.bin,15771056,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-080,metric_report_080.bin,16233865,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-081,audit_log_081.json.gz,21550013,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-082,audit_log_082.json.gz,7565266,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-083,crash_dump_083.bin,92470131,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-084,crash_dump_084.bin,37850810,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-085,db_journal_085.parquet,4251203,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-086,metric_report_086.bin,42381420,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-087,metric_report_087.bin,47382454,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-088,db_journal_088.parquet,4867522,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-089,metric_report_089.bin,28273409,MEDIUM,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-090,crash_dump_090.bin,91794696,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-091,db_journal_091.parquet,12274109,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-092,db_journal_092.parquet,9196228,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-093,audit_log_093.json.gz,12349648,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-094,audit_log_094.json.gz,23338653,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-095,audit_log_095.json.gz,11992389,HIGH,INFREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-096,crash_dump_096.bin,62809372,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-097,db_journal_097.parquet,8791131,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-098,db_journal_098.parquet,13366189,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Full Replication (Baseline),bench-obj-099,crash_dump_099.bin,71091171,LOW,ARCHIVE,REPLICATE_NOW,1.0000,True,Full Replication baseline policy mandates replication of all objects.
+Priority-Based Tiering,bench-obj-000,audit_log_000.json.gz,12322289,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-001,audit_log_001.json.gz,24274284,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-002,crash_dump_002.bin,63206870,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-003,db_journal_003.parquet,5664433,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-004,metric_report_004.bin,43988602,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-005,metric_report_005.bin,37036167,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-006,db_journal_006.parquet,12882416,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-007,metric_report_007.bin,41278786,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-008,db_journal_008.parquet,4494139,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-009,metric_report_009.bin,28261567,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-010,metric_report_010.bin,19856192,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-011,db_journal_011.parquet,6234874,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-012,metric_report_012.bin,48158537,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-013,metric_report_013.bin,46655913,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-014,metric_report_014.bin,28118050,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-015,audit_log_015.json.gz,24858330,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-016,audit_log_016.json.gz,19618733,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-017,crash_dump_017.bin,99291983,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-018,metric_report_018.bin,37289074,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-019,audit_log_019.json.gz,17389465,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-020,audit_log_020.json.gz,12602063,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-021,audit_log_021.json.gz,9884523,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-022,audit_log_022.json.gz,22339745,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-023,crash_dump_023.bin,87210094,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-024,crash_dump_024.bin,33173174,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-025,audit_log_025.json.gz,6823843,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-026,crash_dump_026.bin,35688377,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-027,audit_log_027.json.gz,10371383,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-028,crash_dump_028.bin,42443940,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-029,audit_log_029.json.gz,19408217,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-030,db_journal_030.parquet,12103235,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-031,audit_log_031.json.gz,7374516,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-032,metric_report_032.bin,36307057,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-033,metric_report_033.bin,36095796,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-034,metric_report_034.bin,50475155,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-035,audit_log_035.json.gz,20948028,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-036,crash_dump_036.bin,91988045,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-037,metric_report_037.bin,27357875,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-038,crash_dump_038.bin,95224242,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-039,db_journal_039.parquet,2289771,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-040,audit_log_040.json.gz,9086598,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-041,audit_log_041.json.gz,23260614,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-042,audit_log_042.json.gz,14196047,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-043,audit_log_043.json.gz,16657274,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-044,db_journal_044.parquet,3968686,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-045,metric_report_045.bin,30182220,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-046,metric_report_046.bin,39662362,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-047,metric_report_047.bin,21099547,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-048,db_journal_048.parquet,9709372,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-049,audit_log_049.json.gz,5351774,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-050,crash_dump_050.bin,56322999,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-051,audit_log_051.json.gz,22039762,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-052,db_journal_052.parquet,14880756,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-053,metric_report_053.bin,22474884,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-054,db_journal_054.parquet,10614637,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-055,audit_log_055.json.gz,8813434,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-056,metric_report_056.bin,30514050,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-057,metric_report_057.bin,44554439,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-058,audit_log_058.json.gz,25676529,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-059,metric_report_059.bin,23834458,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-060,audit_log_060.json.gz,10371314,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-061,db_journal_061.parquet,8370385,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-062,db_journal_062.parquet,14889960,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-063,metric_report_063.bin,21327132,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-064,crash_dump_064.bin,93365747,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-065,db_journal_065.parquet,15160336,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-066,metric_report_066.bin,46077192,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-067,audit_log_067.json.gz,5262069,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-068,crash_dump_068.bin,101360501,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-069,audit_log_069.json.gz,16119752,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-070,db_journal_070.parquet,10294595,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-071,crash_dump_071.bin,23585644,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-072,metric_report_072.bin,17993075,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-073,crash_dump_073.bin,69689973,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-074,metric_report_074.bin,31122683,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-075,crash_dump_075.bin,53110265,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-076,audit_log_076.json.gz,7186526,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-077,metric_report_077.bin,26650378,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-078,crash_dump_078.bin,97120879,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-079,metric_report_079.bin,15771056,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-080,metric_report_080.bin,16233865,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-081,audit_log_081.json.gz,21550013,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-082,audit_log_082.json.gz,7565266,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-083,crash_dump_083.bin,92470131,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-084,crash_dump_084.bin,37850810,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-085,db_journal_085.parquet,4251203,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-086,metric_report_086.bin,42381420,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-087,metric_report_087.bin,47382454,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-088,db_journal_088.parquet,4867522,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-089,metric_report_089.bin,28273409,MEDIUM,FREQUENT,DEFER_BATCH,0.5000,False,Medium tier: deferred for aggregated batch replication.
+Priority-Based Tiering,bench-obj-090,crash_dump_090.bin,91794696,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-091,db_journal_091.parquet,12274109,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-092,db_journal_092.parquet,9196228,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-093,audit_log_093.json.gz,12349648,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-094,audit_log_094.json.gz,23338653,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-095,audit_log_095.json.gz,11992389,HIGH,INFREQUENT,REPLICATE_NOW,0.7500,True,High tier: asset replication approved under priority schedule.
+Priority-Based Tiering,bench-obj-096,crash_dump_096.bin,62809372,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Priority-Based Tiering,bench-obj-097,db_journal_097.parquet,8791131,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-098,db_journal_098.parquet,13366189,CRITICAL,FREQUENT,REPLICATE_NOW,1.0000,True,Critical tier: zero-RPO loss tolerance requires immediate cross-cloud replica.
+Priority-Based Tiering,bench-obj-099,crash_dump_099.bin,71091171,LOW,ARCHIVE,SKIP,0.2500,False,Low tier: non-essential asset omitted to conserve cloud egress budget.
+Cost-Aware Adaptive,bench-obj-000,audit_log_000.json.gz,12322289,HIGH,INFREQUENT,REPLICATE_NOW,0.6857,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-001,audit_log_001.json.gz,24274284,HIGH,INFREQUENT,REPLICATE_NOW,0.6840,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-002,crash_dump_002.bin,63206870,LOW,ARCHIVE,DEFER_BATCH,0.4037,False,Adaptive score (0.404) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-003,db_journal_003.parquet,5664433,CRITICAL,FREQUENT,REPLICATE_NOW,0.8992,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-004,metric_report_004.bin,43988602,MEDIUM,FREQUENT,REPLICATE_NOW,0.7188,True,Adaptive score (0.719) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-005,metric_report_005.bin,37036167,MEDIUM,FREQUENT,REPLICATE_NOW,0.7197,True,Adaptive score (0.72) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-006,db_journal_006.parquet,12882416,CRITICAL,FREQUENT,REPLICATE_NOW,0.8981,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-007,metric_report_007.bin,41278786,MEDIUM,FREQUENT,REPLICATE_NOW,0.7191,True,Adaptive score (0.719) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-008,db_journal_008.parquet,4494139,CRITICAL,FREQUENT,REPLICATE_NOW,0.8993,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-009,metric_report_009.bin,28261567,MEDIUM,FREQUENT,REPLICATE_NOW,0.7209,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-010,metric_report_010.bin,19856192,MEDIUM,FREQUENT,REPLICATE_NOW,0.7221,True,Adaptive score (0.722) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-011,db_journal_011.parquet,6234874,CRITICAL,FREQUENT,REPLICATE_NOW,0.8991,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-012,metric_report_012.bin,48158537,MEDIUM,FREQUENT,REPLICATE_NOW,0.7182,True,Adaptive score (0.718) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-013,metric_report_013.bin,46655913,MEDIUM,FREQUENT,REPLICATE_NOW,0.7184,True,Adaptive score (0.718) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-014,metric_report_014.bin,28118050,MEDIUM,FREQUENT,REPLICATE_NOW,0.7209,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-015,audit_log_015.json.gz,24858330,HIGH,INFREQUENT,REPLICATE_NOW,0.6839,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-016,audit_log_016.json.gz,19618733,HIGH,INFREQUENT,REPLICATE_NOW,0.6846,True,Adaptive score (0.685) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-017,crash_dump_017.bin,99291983,LOW,ARCHIVE,DEFER_BATCH,0.3993,False,Adaptive score (0.399) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-018,metric_report_018.bin,37289074,MEDIUM,FREQUENT,REPLICATE_NOW,0.7197,True,Adaptive score (0.72) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-019,audit_log_019.json.gz,17389465,HIGH,INFREQUENT,REPLICATE_NOW,0.6849,True,Adaptive score (0.685) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-020,audit_log_020.json.gz,12602063,HIGH,INFREQUENT,REPLICATE_NOW,0.6856,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-021,audit_log_021.json.gz,9884523,HIGH,INFREQUENT,REPLICATE_NOW,0.6860,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-022,audit_log_022.json.gz,22339745,HIGH,INFREQUENT,REPLICATE_NOW,0.6842,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-023,crash_dump_023.bin,87210094,LOW,ARCHIVE,DEFER_BATCH,0.4007,False,Adaptive score (0.401) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-024,crash_dump_024.bin,33173174,LOW,ARCHIVE,DEFER_BATCH,0.4077,False,Adaptive score (0.408) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-025,audit_log_025.json.gz,6823843,HIGH,INFREQUENT,REPLICATE_NOW,0.6865,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-026,crash_dump_026.bin,35688377,LOW,ARCHIVE,DEFER_BATCH,0.4074,False,Adaptive score (0.407) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-027,audit_log_027.json.gz,10371383,HIGH,INFREQUENT,REPLICATE_NOW,0.6860,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-028,crash_dump_028.bin,42443940,LOW,ARCHIVE,DEFER_BATCH,0.4065,False,Adaptive score (0.406) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-029,audit_log_029.json.gz,19408217,HIGH,INFREQUENT,REPLICATE_NOW,0.6847,True,Adaptive score (0.685) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-030,db_journal_030.parquet,12103235,CRITICAL,FREQUENT,REPLICATE_NOW,0.8982,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-031,audit_log_031.json.gz,7374516,HIGH,INFREQUENT,REPLICATE_NOW,0.6864,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-032,metric_report_032.bin,36307057,MEDIUM,FREQUENT,REPLICATE_NOW,0.7198,True,Adaptive score (0.72) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-033,metric_report_033.bin,36095796,MEDIUM,FREQUENT,REPLICATE_NOW,0.7198,True,Adaptive score (0.72) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-034,metric_report_034.bin,50475155,MEDIUM,FREQUENT,REPLICATE_NOW,0.7179,True,Adaptive score (0.718) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-035,audit_log_035.json.gz,20948028,HIGH,INFREQUENT,REPLICATE_NOW,0.6844,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-036,crash_dump_036.bin,91988045,LOW,ARCHIVE,DEFER_BATCH,0.4002,False,Adaptive score (0.4) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-037,metric_report_037.bin,27357875,MEDIUM,FREQUENT,REPLICATE_NOW,0.7210,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-038,crash_dump_038.bin,95224242,LOW,ARCHIVE,DEFER_BATCH,0.3998,False,Adaptive score (0.4) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-039,db_journal_039.parquet,2289771,CRITICAL,FREQUENT,REPLICATE_NOW,0.8997,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-040,audit_log_040.json.gz,9086598,HIGH,INFREQUENT,REPLICATE_NOW,0.6862,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-041,audit_log_041.json.gz,23260614,HIGH,INFREQUENT,REPLICATE_NOW,0.6841,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-042,audit_log_042.json.gz,14196047,HIGH,INFREQUENT,REPLICATE_NOW,0.6854,True,Adaptive score (0.685) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-043,audit_log_043.json.gz,16657274,HIGH,INFREQUENT,REPLICATE_NOW,0.6851,True,Adaptive score (0.685) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-044,db_journal_044.parquet,3968686,CRITICAL,FREQUENT,REPLICATE_NOW,0.8994,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-045,metric_report_045.bin,30182220,MEDIUM,FREQUENT,REPLICATE_NOW,0.7206,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-046,metric_report_046.bin,39662362,MEDIUM,FREQUENT,REPLICATE_NOW,0.7193,True,Adaptive score (0.719) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-047,metric_report_047.bin,21099547,MEDIUM,FREQUENT,REPLICATE_NOW,0.7219,True,Adaptive score (0.722) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-048,db_journal_048.parquet,9709372,CRITICAL,FREQUENT,REPLICATE_NOW,0.8986,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-049,audit_log_049.json.gz,5351774,HIGH,INFREQUENT,REPLICATE_NOW,0.6867,True,Adaptive score (0.687) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-050,crash_dump_050.bin,56322999,LOW,ARCHIVE,DEFER_BATCH,0.4046,False,Adaptive score (0.405) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-051,audit_log_051.json.gz,22039762,HIGH,INFREQUENT,REPLICATE_NOW,0.6843,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-052,db_journal_052.parquet,14880756,CRITICAL,FREQUENT,REPLICATE_NOW,0.8978,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-053,metric_report_053.bin,22474884,MEDIUM,FREQUENT,REPLICATE_NOW,0.7217,True,Adaptive score (0.722) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-054,db_journal_054.parquet,10614637,CRITICAL,FREQUENT,REPLICATE_NOW,0.8984,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-055,audit_log_055.json.gz,8813434,HIGH,INFREQUENT,REPLICATE_NOW,0.6862,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-056,metric_report_056.bin,30514050,MEDIUM,FREQUENT,REPLICATE_NOW,0.7206,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-057,metric_report_057.bin,44554439,MEDIUM,FREQUENT,REPLICATE_NOW,0.7187,True,Adaptive score (0.719) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-058,audit_log_058.json.gz,25676529,HIGH,INFREQUENT,REPLICATE_NOW,0.6838,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-059,metric_report_059.bin,23834458,MEDIUM,FREQUENT,REPLICATE_NOW,0.7215,True,Adaptive score (0.722) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-060,audit_log_060.json.gz,10371314,HIGH,INFREQUENT,REPLICATE_NOW,0.6860,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-061,db_journal_061.parquet,8370385,CRITICAL,FREQUENT,REPLICATE_NOW,0.8988,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-062,db_journal_062.parquet,14889960,CRITICAL,FREQUENT,REPLICATE_NOW,0.8978,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-063,metric_report_063.bin,21327132,MEDIUM,FREQUENT,REPLICATE_NOW,0.7219,True,Adaptive score (0.722) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-064,crash_dump_064.bin,93365747,LOW,ARCHIVE,DEFER_BATCH,0.4000,False,Adaptive score (0.4) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-065,db_journal_065.parquet,15160336,CRITICAL,FREQUENT,REPLICATE_NOW,0.8978,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-066,metric_report_066.bin,46077192,MEDIUM,FREQUENT,REPLICATE_NOW,0.7185,True,Adaptive score (0.718) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-067,audit_log_067.json.gz,5262069,HIGH,INFREQUENT,REPLICATE_NOW,0.6867,True,Adaptive score (0.687) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-068,crash_dump_068.bin,101360501,LOW,ARCHIVE,DEFER_BATCH,0.3990,False,Adaptive score (0.399) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-069,audit_log_069.json.gz,16119752,HIGH,INFREQUENT,REPLICATE_NOW,0.6851,True,Adaptive score (0.685) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-070,db_journal_070.parquet,10294595,CRITICAL,FREQUENT,REPLICATE_NOW,0.8985,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-071,crash_dump_071.bin,23585644,LOW,ARCHIVE,DEFER_BATCH,0.4091,False,Adaptive score (0.409) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-072,metric_report_072.bin,17993075,MEDIUM,FREQUENT,REPLICATE_NOW,0.7224,True,Adaptive score (0.722) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-073,crash_dump_073.bin,69689973,LOW,ARCHIVE,DEFER_BATCH,0.4029,False,Adaptive score (0.403) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-074,metric_report_074.bin,31122683,MEDIUM,FREQUENT,REPLICATE_NOW,0.7205,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-075,crash_dump_075.bin,53110265,LOW,ARCHIVE,DEFER_BATCH,0.4050,False,Adaptive score (0.405) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-076,audit_log_076.json.gz,7186526,HIGH,INFREQUENT,REPLICATE_NOW,0.6864,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-077,metric_report_077.bin,26650378,MEDIUM,FREQUENT,REPLICATE_NOW,0.7211,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-078,crash_dump_078.bin,97120879,LOW,ARCHIVE,DEFER_BATCH,0.3996,False,Adaptive score (0.4) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-079,metric_report_079.bin,15771056,MEDIUM,FREQUENT,REPLICATE_NOW,0.7227,True,Adaptive score (0.723) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-080,metric_report_080.bin,16233865,MEDIUM,FREQUENT,REPLICATE_NOW,0.7226,True,Adaptive score (0.723) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-081,audit_log_081.json.gz,21550013,HIGH,INFREQUENT,REPLICATE_NOW,0.6844,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-082,audit_log_082.json.gz,7565266,HIGH,INFREQUENT,REPLICATE_NOW,0.6864,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-083,crash_dump_083.bin,92470131,LOW,ARCHIVE,DEFER_BATCH,0.4001,False,Adaptive score (0.4) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-084,crash_dump_084.bin,37850810,LOW,ARCHIVE,DEFER_BATCH,0.4071,False,Adaptive score (0.407) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-085,db_journal_085.parquet,4251203,CRITICAL,FREQUENT,REPLICATE_NOW,0.8994,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-086,metric_report_086.bin,42381420,MEDIUM,FREQUENT,REPLICATE_NOW,0.7190,True,Adaptive score (0.719) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-087,metric_report_087.bin,47382454,MEDIUM,FREQUENT,REPLICATE_NOW,0.7183,True,Adaptive score (0.718) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-088,db_journal_088.parquet,4867522,CRITICAL,FREQUENT,REPLICATE_NOW,0.8993,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-089,metric_report_089.bin,28273409,MEDIUM,FREQUENT,REPLICATE_NOW,0.7209,True,Adaptive score (0.721) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-090,crash_dump_090.bin,91794696,LOW,ARCHIVE,DEFER_BATCH,0.4002,False,Adaptive score (0.4) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-091,db_journal_091.parquet,12274109,CRITICAL,FREQUENT,REPLICATE_NOW,0.8982,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-092,db_journal_092.parquet,9196228,CRITICAL,FREQUENT,REPLICATE_NOW,0.8986,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-093,audit_log_093.json.gz,12349648,HIGH,INFREQUENT,REPLICATE_NOW,0.6857,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-094,audit_log_094.json.gz,23338653,HIGH,INFREQUENT,REPLICATE_NOW,0.6841,True,Adaptive score (0.684) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-095,audit_log_095.json.gz,11992389,HIGH,INFREQUENT,REPLICATE_NOW,0.6857,True,Adaptive score (0.686) meets high replication threshold (0.5). Disaster recovery utility justifies cross-cloud replication.
+Cost-Aware Adaptive,bench-obj-096,crash_dump_096.bin,62809372,LOW,ARCHIVE,DEFER_BATCH,0.4038,False,Adaptive score (0.404) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
+Cost-Aware Adaptive,bench-obj-097,db_journal_097.parquet,8791131,CRITICAL,FREQUENT,REPLICATE_NOW,0.8987,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-098,db_journal_098.parquet,13366189,CRITICAL,FREQUENT,REPLICATE_NOW,0.8980,True,Mandatory Zero-RPO guarantee for CRITICAL assets: bypasses cost throttling.
+Cost-Aware Adaptive,bench-obj-099,crash_dump_099.bin,71091171,LOW,ARCHIVE,DEFER_BATCH,0.4027,False,Adaptive score (0.403) qualifies for deferred off-peak batch replication (0.35 <= score < 0.5).
